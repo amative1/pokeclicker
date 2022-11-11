@@ -1348,7 +1348,6 @@ TemporaryBattleList['Team Rainbow Leader Giovanni'] = new TemporaryBattle(
 
 //Galar Temporary Battles
 //TODO: Have Hop's starter depend on the players Galar starter
-
 TemporaryBattleList['Hop 1'] = new TemporaryBattle(
     'Hop 1',
     [
